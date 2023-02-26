@@ -1,0 +1,175 @@
+body {
+    font-family: 'Source Sans Pro',
+        sans-serif;
+}
+
+div.MuiDataGrid-root.css-3ihp42-MuiDataGrid-root,
+div.MuiToolbar-root.MuiToolbar-gutters.MuiToolbar-regular.MuiTablePagination-toolbar.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar {
+    color: white;
+    border: 0;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.css-i4bv87-MuiSvgIcon-root,
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeSmall.MuiDataGrid-sortIcon.css-ptiqhd-MuiSvgIcon-root,
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeSmall.css-ptiqhd-MuiSvgIcon-root {
+    color: white;
+}
+
+.MuiSvgIcon-root.MuiSvgIcon-fontSizeMedium.MuiDataGrid-iconSeparator.css-i4bv87-MuiSvgIcon-root {
+    color: #39525f;
+}
+
+.MuiDataGrid-columnHeaderTitle.css-1jbbcbn-MuiDataGrid-columnHeaderTitle {
+    text-overflow: unset;
+    white-space: normal;
+    line-height: 20px;
+}
+
+.MuiDataGrid-cell.MuiDataGrid-cell--textLeft {
+    min-height: 30px;
+}
+
+.popup-overlay {
+    /* background-color: rgba(0, 0, 0, 0.5); */
+    /*This is the default. Setting the last number to 0 will make the overlay transparent*/
+    backdrop-filter: brightness(50%);
+}
+
+.text {
+    color: white;
+}
+
+#popup-2 {
+    width: 45%;
+    background-color: #39525f;
+    height: 450px;
+    padding-left: 2vh;
+}
+
+#popup-4 {
+    width: 43%;
+    background-color: #39525f;
+    height: 270px;
+    padding-left: 2vh;
+}
+
+#popup-6 {
+    width: 90%;
+    background-color: #39525f;
+    height: 420px;
+    padding-left: 4vh;
+}
+
+.modal-edit {
+    display: contents;
+}
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation24.MuiDialog-paper.MuiDialog-paperScrollPaper.MuiDialog-paperWidthSm.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+    /* width: 46%; */
+    background-color: #39525f;
+    height: 200px;
+    /* padding-left: 2vh; */
+}
+
+#popup-8 {
+    width: 25%;
+    background-color: #39525f;
+    height: 150px;
+    padding-left: 2vh;
+}
+
+/* Popup */
+
+.textbox {
+    background-color: white;
+    border-radius: 5px;
+    width: 18vw;
+}
+
+.MuiOutlinedInput-input.MuiInputBase-input.MuiInputBase-inputSizeSmall.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input {
+    margin-top: 10px;
+    padding-bottom: 0;
+}
+
+.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiInputLabel-sizeSmall.MuiInputLabel-outlined.MuiFormLabel-root.MuiFormLabel-colorPrimary.MuiFormLabel-filled.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root {
+    padding-top: 10px;
+}
+
+
+/* Add */
+
+.add-bt {
+    margin-top: 15px;
+    margin-left: 1vh;
+    width: 48%;
+    border-radius: 5px;
+}
+
+/* Edit */
+
+.edit-bt {
+    margin-top: 15px;
+    margin-left: 1vh;
+    padding: 10px 0;
+    width: 45%;
+    border-radius: 5px;
+}
+
+/* Delete */
+
+.del-bt {
+    margin-top: 5px;
+    margin-left: 0vh;
+    padding: 10px 0;
+    width: 45%;
+    border-radius: 5px;
+}
+
+/* Advc Search */
+
+.advc-bt {
+    margin-top: 15px;
+    margin-left: 1vh;
+    padding: 10px 0;
+    width: 45%;
+    border-radius: 5px;
+}
+
+/* Analytics */
+
+.inline-container {
+    display: inline-block;
+    margin-left: 2vh;
+    margin-top: 1vh;
+}
+
+.inline-container div {
+    margin-top: -1%;
+}
+
+.analy-bt {
+    margin-top: 15px;
+    margin-left: 1vh;
+    padding: 10px 0;
+    width: 45%;
+    border-radius: 5px;
+}
+
+/* Search */
+
+.search {
+    width: 14vw;
+}
+
+.search.MuiFormControl-root.MuiTextField-root {
+    margin-top: -10px !important;
+}
+
+#bt5 {
+    border: 1px solid grey;
+    z-index: -2;
+}
+
+.MuiDialogContent-root.css-ypiqx9-MuiDialogContent-root {
+    height: 300px !important;
+}
